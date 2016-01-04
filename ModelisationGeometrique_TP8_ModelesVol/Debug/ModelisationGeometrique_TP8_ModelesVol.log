@@ -1,0 +1,57 @@
+﻿  main.cpp
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(95): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(96): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(97): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(115): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(124): warning C4244: '=' : conversion de 'double' en 'uint32_t', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(129): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(129): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(130): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(130): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(131): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(131): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(151): warning C4244: '=' : conversion de 'double' en 'uint32_t', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(156): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(156): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(157): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(157): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(158): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(158): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(159): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(188): warning C4244: '=' : conversion de 'double' en 'uint32_t', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(193): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(193): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(194): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(194): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(195): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(195): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(196): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(197): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(226): warning C4244: '=' : conversion de 'double' en 'uint32_t', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(231): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(231): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(232): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(232): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(233): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(233): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(234): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(235): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(264): warning C4244: '=' : conversion de 'double' en 'uint32_t', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(269): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(269): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(270): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(270): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(271): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(271): warning C4244: '+=' : conversion de 'GLfloat' en 'int', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(272): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(273): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(383): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\main.cpp(384): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  Compilation en cours...
+  Octree.cpp
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\octree.cpp(1): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\joris\documents\github\modelisationgeometrique_tp8_modelesvol\modelisationgeometrique_tp8_modelesvol\octree.cpp(11): warning C4244: '=' : conversion de 'const int' en 'float', perte possible de données
+  Génération de code en cours...
+  ModelisationGeometrique_TP8_ModelesVol.vcxproj -> C:\Users\joris\Documents\GitHub\ModelisationGeometrique_TP8_ModelesVol\Debug\ModelisationGeometrique_TP8_ModelesVol.exe
+  ModelisationGeometrique_TP8_ModelesVol.vcxproj -> C:\Users\joris\Documents\GitHub\ModelisationGeometrique_TP8_ModelesVol\Debug\ModelisationGeometrique_TP8_ModelesVol.pdb (Partial PDB)
